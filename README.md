@@ -1,4 +1,4 @@
-jQuery-Word-Export
+jQuery-Word-Export（该组件才有效）
 ==================
 
 jQuery plugin for exporting HTML and images to a Microsoft Word document
